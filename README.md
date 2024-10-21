@@ -1,4 +1,4 @@
-# 🚀✨ Hey! I’m Nandana—Sculpting Code, Unraveling Blockchain Mysteries, and Soaring Through the Tech Universe! 🌌🌟
+#  Hey! I’m Nandana—Sculpting Code, Unraveling Blockchain Mysteries, and Soaring Through the Tech Universe! 
 # 💫 About Me:
 Hello! I'm a student who spends my days honing my web development skills and my nights exploring the world of blockchain through a PG diploma. 🚀 Right now, I'm on a quest to master the MERN stack and dive deeper into the world of decentralized technology.
 
