@@ -1,6 +1,6 @@
 #  Hey! I’m Nandana—Sculpting Code, Unraveling Blockchain Mysteries, and Soaring Through the Tech Universe! 
 # 💫 About Me:
-# ![My Image](https://img-cdn.thepublive.com/fit-in/1280x960/filters:format(webp)/dq/media/media_files/WeI2Kue07YEH8Crwc4Ju.jpg)
+<img src="https://img-cdn.thepublive.com/fit-in/1280x960/filters:format(webp)/dq/media/media_files/WeI2Kue07YEH8Crwc4Ju.jpg" alt="My Image" width="750"/>
 Hello! I'm a student who spends my days honing my web development skills and my nights exploring the world of blockchain through a PG diploma. 🚀 Right now, I'm on a quest to master the MERN stack and dive deeper into the world of decentralized technology.
 
 I love tackling coding challenges and bringing fresh ideas to life. Whether I'm developing sleek web applications or experimenting with blockchain, I'm always ready for the next big project. When I'm not coding, you'll likely find me exploring the latest tech trends or brainstorming my next exciting endeavor. 🌟
