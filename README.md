@@ -19,5 +19,12 @@ I love tackling coding challenges and bringing fresh ideas to life. Whether I'm 
 ![](https://github-profile-trophy.vercel.app/?username=nandanaraju&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=nandanaraju&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
